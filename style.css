@@ -37,7 +37,7 @@ width: 70%;
     }
 
 .split.left{
-    background: url(smg.jpg);
+    background: url(sumsung.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -61,7 +61,7 @@ width: 70%;
 
 }
 .split.right{
-    background: url(iph.jpg);
+    background: url(iphone.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
